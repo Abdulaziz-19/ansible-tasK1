@@ -1,1 +1,2 @@
-VM1                 ansible_host = 165.227.84.213
+[centos]
+VM1                 ansible_host=165.227.84.213
